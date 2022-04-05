@@ -1,3 +1,2 @@
 # Geluk
-
-# Sean: aanpassen is gelukt
+Van Toon Hermans
